@@ -56,5 +56,5 @@ By analyzing the data patterns, I have identified several key trends that direct
 
 ## 👤 Contact & Connectivity
 I am a budding Data Analyst passionate about turning messy data into actionable stories. 
-- **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email Address]
+- **Email:** tanpercy0701@gmail.com
+- **Moblie:** +64 2885198573
