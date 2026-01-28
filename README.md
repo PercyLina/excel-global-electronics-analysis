@@ -20,6 +20,7 @@ This project delivers a comprehensive Business Intelligence solution for a multi
 Built a robust **Star Schema** by connecting a central Fact table (Sales) with six Dimension tables (Products, Stores, Customers, Calendar, etc.). 
 - **Benefit:** Optimized report performance and ensured data integrity across 30,000+ records.
 
+
 ### 2. Advanced DAX Calculations
 Developed 20+ custom measures to extract deep business insights, including:
 - **Time Intelligence:** Calculated **YoY (Year-over-Year)** and **Revenue LY** growth to identify seasonal trends.
